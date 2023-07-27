@@ -62,21 +62,21 @@ concat()
 slice()
 splice()
 reverse()
-isArray()
-indexOf()
-lastIndexOf()
-find()
-findIndex()
+isArray()  - mutharasu
+indexOf() - mathesh waran
+lastIndexOf() - swathi
+find() - sumaiya
+findIndex() - vimalraj
 includes()
-entries()
-every()
-some()
-fill()
-copywithin()
-valueOf()
-flat()
-from()
-keys()
+entries() - kalaivani
+every() - harirajan
+some() - govindan
+fill() - harikrishnan
+copywithin() - godson
+valueOf() - praveenkumar
+flat() - vignesh vk 
+from() - prasanth
+keys() 
 delete Operator
 length property
 
