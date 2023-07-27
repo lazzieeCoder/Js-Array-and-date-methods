@@ -42,7 +42,7 @@ f.setTime(1690437220346)
 //Js Array Methods
 var array = [1,2,3];
 console.log(array.toString()); // "1,2,3"
-let a = ["a", "b", "c"]
+var a = ["a", "b", "c"]
 console.log(a.push("z"));// ["a","b","c","z"]
 console.log(a);
 console.log(a.pop());// ["a","b","c"]
