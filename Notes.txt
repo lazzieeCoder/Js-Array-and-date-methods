@@ -62,14 +62,14 @@ concat()
 slice()
 splice()
 reverse()
-isArray()  - mutharasu
-indexOf() - mathesh waran
-lastIndexOf() - swathi
-find() - sumaiya
-findIndex() - vimalraj
+isArray()  - done
+indexOf() - done
+lastIndexOf() - done
+find() - done
+findIndex() - done
 includes()
-entries() - kalaivani
-every() - harirajan
+entries() - done
+every() - done
 some() - govindan
 fill() - harikrishnan
 copywithin() - godson
