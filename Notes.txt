@@ -71,11 +71,11 @@ includes()
 entries() - done
 every() - done
 some() - govindan
-fill() - harikrishnan
-copywithin() - godson
-valueOf() - praveenkumar
+fill() - done
+copywithin() -done
+valueOf() -done
 flat() - vignesh vk 
-from() - prasanth
+from() - done
 keys() 
 delete Operator
 length property
